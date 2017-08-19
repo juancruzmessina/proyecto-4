@@ -1,0 +1,74 @@
+.contenedor{
+max-width: 800px; 
+margin: auto;	
+}
+
+.menu {
+
+background-color: yellow;
+}
+
+.menu ul li {
+display: inline-block;
+margin: 0 5px;	
+}
+
+.menu ul {
+	float: right;
+}
+
+
+footer {
+	background: #000
+}
+
+header {
+	background: cyan;
+	text-align: left;
+	padding: 100px 0px;
+
+}
+
+.info1 article {
+	display: inline-block;
+
+}
+.social {
+	text-align: center;
+	padding: 0;
+}
+.social li {
+display: inline-block;
+}
+
+.social li span{
+color: white;
+width: 40px;
+height: 40px;
+border-radius: 50px;
+display: inline-block;
+text-align: center;
+font-size: 25px; 
+padding-top: 5px;
+box-sizing: border-box;
+}
+
+.Facebook {
+	background-color: #3b5998;
+}
+
+.Twitter {
+	background-color: #55acee;
+}
+
+.Linkedin {
+	background-color: #007bb5;
+}
+
+.Pinterest {
+	background-color: #cb2027;
+}
+
+.googleplus {
+	background-color: #dd4b39;
+}
